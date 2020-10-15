@@ -1,4 +1,4 @@
-# GAN-demo
+# LIVE GAN-demo
 - CGAN 
 - DCGAN 
 - TimeGAN 
